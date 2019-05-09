@@ -15,7 +15,7 @@ In ```process_p24_sequences.ipynb```, we processed the sequences to obtain the o
 
 3. Inference of p24 prevalence landscape   
 We used [available software](https://bartonlab.ucr.edu/projects/ACE/) implementing the adaptive cluster expansion algorithm [1] to infer the prevalence landscape of p24.
-The results, for two different regularization strengths, are provided in the ```p24 landscape``` folder. See the end of ```process_p24_sequences.ipynb``` for a comparison between the obtained fields and couplings. We used ```gh-0.001``` in our subsequent analyses.
+The results, for two different regularization strengths, are provided in the ```p24 landscape``` folder. See the end of ```process_p24_sequences.ipynb``` for a comparison between the obtained fields and couplings. (We used ```gh-0.001``` in our subsequent analyses.)
 
 4. Patient data   
 Data for the example patient used in the text (taken from [2]) are provided in the ```patient data``` folder.
